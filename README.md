@@ -1,12 +1,12 @@
 <div align="center">
 
-# Jesus Jara S.
+# Jesús Jara S.
 
 **Software Engineering Student**
 
 Clean code · Solid principles · Design patterns
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-0a0a0b?style=for-the-badge&logo=safari&logoColor=white)](https://jess-devs.github.io)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&labelColor=000000)](https://jess-devs.github.io)
 
 </div>
 
@@ -14,7 +14,7 @@ Clean code · Solid principles · Design patterns
 
 ### About
 
-I care about **clean code**, **SOLID principles**, and **design patterns**. I'm always learning, always building, and always shipping. Currently focused on backend development with Java and C#/.NET, while exploring frontend and system design.
+I care about clean code, SOLID principles, and design patterns. Always learning, always building, always shipping. Currently focused on backend development with Java and C#/.NET, while exploring frontend and system design.
 
 ---
 
@@ -43,22 +43,20 @@ I care about **clean code**, **SOLID principles**, and **design patterns**. I'm 
 <p>
   <img src="https://skillicons.dev/icons?i=git" height="32" alt="Git" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" height="32" alt="GitHub" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" height="32" alt="Figma" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=notion" height="32" alt="Notion" />&nbsp;&nbsp;
 </p>
 
 ---
 
-### Stats
+### GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=jess-devs&show_icons=true&hide_border=true&bg_color=0a0a0b&title_color=FFFFFF&text_color=7c7b8a&icon_color=e8ff47&ring_color=e8ff47&include_all_commits=true&hide_title=false&hide_rank=true" width="420" alt="GitHub Stats" />
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=jess-devs&hide_border=true&bg_color=0a0a0b&title_color=FFFFFF&text_color=7c7b8a&langs_count=8&layout=compact&card_width=320" width="340" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=jess-devs&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFBF00&ring_color=FFFFFF&include_all_commits=true&hide_rank=true" width="420" alt="GitHub Stats" />
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jess-devs&hide_border=true&bg_color=0d1117&title_color=FFFFFF&text_color=FFFFFF&langs_count=8&layout=compact&card_width=320" width="340" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jess-devs&hide_border=true&background=0a0a0b&stroke=1e1e24&ring=e8ff47&fire=e8ff47&currStreakLabel=e8ff47&sideLabels=7c7b8a&currStreakNum=f0eff4&sideNums=f0eff4&dates=7c7b8a" width="420" alt="Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jess-devs&hide_border=true&background=0d1117&stroke=0d1117&ring=FFB300&fire=FFBF00&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="420" alt="Streak Stats" />
 
 </div>
 
@@ -66,12 +64,12 @@ I care about **clean code**, **SOLID principles**, and **design patterns**. I'm 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jess-devs&bg_color=0a0a0b&color=FFFFFF&line=e8ff47&point=7c7b8a&area=true&area_color=111114&hide_border=true&custom_title=Contributions" width="95%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jess-devs&bg_color=0d1117&color=FFFFFF&line=FFFFFF&point=FFBF00&area=true&area_color=161b22&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Activity Graph" />
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Clean code · Solid principles · Design patterns</sub>
+  <sub>Built with discipline. Shipped with care.</sub>
 </div>
