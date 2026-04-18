@@ -24,7 +24,6 @@ I care about clean code, SOLID principles, and design patterns. Always learning,
 
 <p>
   <img src="https://skillicons.dev/icons?i=java" height="32" alt="Java" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cs" height="32" alt="C#" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=js" height="32" alt="JavaScript" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=html" height="32" alt="HTML" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" height="32" alt="CSS" />
@@ -33,7 +32,6 @@ I care about clean code, SOLID principles, and design patterns. Always learning,
 **Frameworks & Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet" height="32" alt=".NET" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" height="32" alt="MySQL" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=sqlite" height="32" alt="SQLite" />
 </p>
